@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">challenge1</string>
+    <string name="title_activity_git_ui_activity.kt">GitUiActivity.kt</string>
+    <string name="title_activity_git_ui">GitUiActivity</string>
+    <string name="github_ui_title">Ingrese el github user</string>
+    <string name="git_ui_button">Buscar</string>
+</resources>
